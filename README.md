@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Horlah777
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Google Data Analytics from coursera
-- also currrently learning data analytics from Analyst builder
+-     Also currrently learning data analytics from Analyst builder
 - 💞️ I’m looking to collaborate on Data analytics related work 
 - 📫 How to reach me on here
 - 😄 Pronouns: He/him
